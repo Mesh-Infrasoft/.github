@@ -1,4 +1,4 @@
-![Mesh Infrasoft Logo](https://avatars.githubusercontent.com/u/111696460)
+![Mesh Infrasoft Logo](/Mesh Infrasoft Logo.png)
 # Mesh Infrasoft
 *Ready for the future*
 
