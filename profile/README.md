@@ -1,4 +1,4 @@
-![Mesh Infrasoft Logo](/Mesh Infrasoft Logo.png)
+![Mesh Infrasoft Logo](/Mesh-Infrasoft-Logo.png)
 # Mesh Infrasoft
 *Ready for the future*
 
